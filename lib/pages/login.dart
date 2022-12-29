@@ -1,6 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:warehouse/pages/home.dart';
 
 class LoginPage extends StatelessWidget {
   LoginPage({super.key, required this.auth});
@@ -20,7 +19,6 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: ListView(
-        padding: const EdgeInsets.all(20),
         children: [
           Container(
             height: 300,
