@@ -1,4 +1,4 @@
-# example
+# warehouse
 
 A new Flutter project.
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462991093095",
+    "project_id": "warehouse-fransiska",
+    "storage_bucket": "warehouse-fransiska.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462991093095:android:d42403709b6fa1395a13c2",
+        "android_client_info": {
+          "package_name": "com.example.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462991093095-i9fsaab3oi3rklk8drs3p7e680lep48e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRpB6ky4ez90AVxu0FNIuMuBtTNrOuPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462991093095-i9fsaab3oi3rklk8drs3p7e680lep48e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
